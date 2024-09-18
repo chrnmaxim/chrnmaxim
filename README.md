@@ -7,18 +7,18 @@
 Личные проекты:
 
 - 🪴 [Digital Garden - цифровой сад знаний по Backend разработке](https://chrnmaxim.github.io/knowledge/)
-- [Онлайн-платформа для обмена рецептами](https://github.com/chrnmaxim/foodgram)
-- [Cоциальная сеть для публикации заметок и комментариев](https://github.com/chrnmaxim/django_blog)
-- [Telegram бот для получения статуса проверки заданий](https://github.com/chrnmaxim/ya_practicum_bot)
+- 🫕 [Онлайн-платформа для обмена рецептами](https://github.com/chrnmaxim/foodgram)
+- 📚 [Cоциальная сеть для публикации заметок и комментариев](https://github.com/chrnmaxim/django_blog)
+- 📝 [Telegram бот для получения статуса проверки заданий](https://github.com/chrnmaxim/ya_practicum_bot)
 
 Командные проекты:
-- [Sous-Vide Zen - платформа для обмена и поиска рецептов су-вид](https://github.com/Sous-Vide-Zen)
-- [ DiziIZI - платформа для автоматической планировки и создания дизайна помещений](https://github.com/dizi-izi-plan)
-- [REST API сервис сбора отзывов на различные произведения](https://github.com/chrnmaxim/api_yamdb)
+- 🧆 [Sous-Vide Zen - платформа для обмена и поиска рецептов су-вид](https://github.com/Sous-Vide-Zen)
+- 🛠️ [DiziIZI - платформа для автоматической планировки и создания дизайна помещений](https://github.com/dizi-izi-plan)
+- 📽️ [REST API сервис сбора отзывов на различные произведения](https://github.com/chrnmaxim/api_yamdb)
 
 Контакты:
-- LinkedIn: [chrnmaxim](https://www.linkedin.com/in/chrnmaxim/)
-- Telegram: [@maximchern](https://t.me/maximchern)
+- 🪪 LinkedIn: [chrnmaxim](https://www.linkedin.com/in/chrnmaxim/)
+- ✈️ Telegram: [@maximchern](https://t.me/maximchern)
 
 ----
 
